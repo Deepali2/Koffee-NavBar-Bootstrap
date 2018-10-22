@@ -1,0 +1,52 @@
+body {
+  padding-top: 70px;
+}
+
+.image {
+  width: 350px;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image1 {
+  background-image: url(https://images.unsplash.com/photo-1540038578511-9a9109db75fa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=931c64c85e1c7a9945048c9d999586da&auto=format&fit=crop&w=800&q=60);
+}
+
+.image2 {
+  background-image: url(https://images.unsplash.com/photo-1540086041359-feb336c24b73?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=efcf69976f2462aaeae8cb054a300f6f&auto=format&fit=crop&w=800&q=60);
+}
+
+.image3 {
+  background-image: url(https://images.unsplash.com/photo-1540057102384-62ff13594243?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5a37fed05e9dd023e67d731f11644090&auto=format&fit=crop&w=800&q=60);
+}
+
+.image4 {
+  background-image: url(https://images.unsplash.com/photo-1540028317582-ab90fe7c343f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=476d592569280c1930ea145466dd8154&auto=format&fit=crop&w=1950&q=80);
+}
+
+.image5 {
+  background-image: url(https://images.unsplash.com/photo-1539985594500-ba634ee7964b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=09e60a57751b1aa2101671237e045feb&auto=format&fit=crop&w=800&q=60);
+}
+
+.image6 {
+  background-image: url(https://images.unsplash.com/photo-1539965328219-31bf451f214d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=14758a56be1a0a776627029d110580be&auto=format&fit=crop&w=800&q=60);
+}
+
+.image7 {
+  background-image: url(https://images.unsplash.com/photo-1539958315846-c656d3630caa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d68544ff51ddfa27b7d15a23c457e325&auto=format&fit=crop&w=800&q=60);
+}
+
+.image8 {
+  background-image: url(https://images.unsplash.com/photo-1539878370229-ea1141442b46?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7f759535e633246b0c945b52c2f133c6&auto=format&fit=crop&w=800&q=60);
+}
+
+.image9 {
+  background-image: url(https://images.unsplash.com/photo-1539800271820-e42bb271a796?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=70ad712cb2fe493d5ecfc2498f810a5e&auto=format&fit=crop&w=800&q=60);
+}
+
